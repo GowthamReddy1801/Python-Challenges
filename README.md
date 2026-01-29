@@ -37,5 +37,7 @@ If the Age of the user is between 18-60(inclusive) then it is valid. So Age>=18 
 Age<=60 is the logic here.
 
 **Sample Outputs:**
+
+
 <img width="561" height="186" alt="Screenshot 2026-01-29 160247" src="https://github.com/user-attachments/assets/85212037-d3d1-4d90-8464-774dac75e497" />
 <img width="554" height="194" alt="Screenshot 2026-01-29 160507" src="https://github.com/user-attachments/assets/fa455978-4696-435f-bb00-2971c092c723" />
